@@ -4,7 +4,7 @@ This is prometheus custom image for running on MikroTik RouterOS. If you want to
 For example, you can try using the artifact I created on Docker Hub.
 
 ```bash
-  docker pull ajidiyantoro/mikrotik-prometheus:latest
+  docker pull ajidiyantoro/mikrotik-prometheus
 ```
 
 ```bash
